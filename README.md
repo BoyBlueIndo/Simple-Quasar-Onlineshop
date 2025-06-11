@@ -1,6 +1,6 @@
 # Quasar App (onlineshop-english)
 
-A Quasar Project
+A Quasar Project. Require backend(onlineshop-api-Quasar).
 
 ## Install the dependencies
 ```bash
